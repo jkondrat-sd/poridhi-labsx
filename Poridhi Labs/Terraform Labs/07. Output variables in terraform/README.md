@@ -71,14 +71,14 @@ Let's use the configuration file from the previous lab and add output variables 
    ```
    Confirm the action by typing `yes` when prompted. After applying, we should see the output variables printed on the screen.
 
-   ![alt text](https://github.com/mehedi11/poridhi-labsx/blob/main/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image.png?raw=true)
+   ![alt text](https://github.com/mehedih11/poridhi-labsx/blob/main/Poridhi%20Labs/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image.png?raw=true)
 
 6. **View Output Variables**:
    we can also view the output variables using the following command:
    ```sh
    terraform output
    ```
-   ![alt text](https://github.com/mehedi11/poridhi-labsx/blob/main/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-1.png?raw=true)
+   ![alt text](https://github.com/mehedih11/poridhi-labsx/blob/main/Poridhi%20Labs/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-1.png?raw=true)
 
 ## Practice Tasks
 
@@ -120,7 +120,7 @@ Let's use the configuration file from the previous lab and add output variables 
    ```
    Confirm the action by typing `yes` when prompted.
 
-   ![alt text](https://github.com/mehedi11/poridhi-labsx/blob/main/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-2.png?raw=true)
+   ![alt text](https://github.com/mehedih11/poridhi-labsx/blob/main/Poridhi%20Labs/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-2.png?raw=true)
 
 3. **Verify the Output**:
    Use the following command to view all output variables, including the new `file_content` variable:
@@ -128,7 +128,7 @@ Let's use the configuration file from the previous lab and add output variables 
    terraform output
    ```
 
-   ![alt text](https://github.com/mehedi11/poridhi-labsx/blob/main/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-3.png?raw=true)
+   ![alt text](https://github.com/mehedih11/poridhi-labsx/blob/main/Poridhi%20Labs/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-3.png?raw=true)
 
 ### Task 2: Create a Dynamic File with Date and Time
 
@@ -163,7 +163,7 @@ Let's use the configuration file from the previous lab and add output variables 
    ```
    Confirm the action by typing `yes` when prompted.
 
-   ![alt text](https://github.com/mehedi11/poridhi-labsx/blob/main/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-4.png?raw=true)
+   ![alt text](https://github.com/mehedih11/poridhi-labsx/blob/main/Poridhi%20Labs/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-4.png?raw=true)
 
 5. **Verify the Output**:
    Use the following command to view the output variable showing the creation time of the file:
@@ -171,7 +171,7 @@ Let's use the configuration file from the previous lab and add output variables 
    terraform output file_creation_time
    ```
 
-    ![alt text](https://github.com/mehedi11/poridhi-labsx/blob/main/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-5.png?raw=true)
+    ![alt text](https://github.com/mehedih11/poridhi-labsx/blob/main/Poridhi%20Labs/Terraform%20Labs/07.%20Output%20variables%20in%20terraform/images/image-5.png?raw=true)
 
 ## Conclusion
 
